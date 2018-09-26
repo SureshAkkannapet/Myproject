@@ -5,6 +5,16 @@ public class Register {
 	private String dob;
 	private String fee;
 	private String doj;
+        /*
+	private String tst;
+	public void setTst(String tst)
+	{ this.tst=tst;
+	}
+	public String getTst(){
+	return 	tst;
+	}
+        
+        */
 	public String getName() {
 		return name;
 	}
